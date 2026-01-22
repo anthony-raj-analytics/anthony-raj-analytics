@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Anthony Raj 👋
 
-<!--
-**anthony-raj-analytics/anthony-raj-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst with hands-on experience in:
+- Python
+- SQL
+- Excel
+- Power BI
 
-Here are some ideas to get you started:
+📊 I enjoy turning raw data into meaningful insights and dashboards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tools & Skills
+- Python (Pandas, NumPy, Matplotlib)
+- SQL (MySQL)
+- Excel (Pivot Tables, VLOOKUP, Power Query)
+- Power BI (DAX, Dashboards)
+
+### 📂 Projects
+- 📈 Sales Data Analysis (Excel)
+- 🧮 SQL Case Studies
+- 📊 Power BI Business Dashboard
+
+📫 Connect with me:
+- GitHub: https://github.com/anthonyraj-analytics
