@@ -15,9 +15,14 @@
 - Power BI (DAX, Dashboards)
 
 ### 📂 Projects
-- 📈 Sales Data Analysis (Excel)
-- 🧮 SQL Case Studies
-- 📊 Power BI Business Dashboard
+- 📈 **Sales Data Analysis (Excel)**  
+  Analyzed sales performance using Pivot Tables and charts.
+
+- 🧮 **SQL Case Studies**  
+  Solved real-world business queries using MySQL.
+
+- 📊 **Power BI Business Dashboard**  
+  Built interactive dashboards with KPIs and DAX.
 
 📫 Connect with me:
 - GitHub: https://github.com/anthonyraj-analytics
