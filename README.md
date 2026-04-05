@@ -2,7 +2,7 @@
 
 **Data Analyst** · Excel · Power BI · MySQL · Healthcare Domain
 
-MSc Computer Science graduate with 1 year of experience at Omega Healthcare in Revenue Cycle Management. Trained in end-to-end data analysis — Excel dashboards, Power BI reporting, and MySQL. Passionate about turning healthcare data into actionable business insights.
+MSc Computer Science graduate with 1 year of experience at Omega Healthcare in Revenue Cycle Management. Completed the **Skillryt Data Analyst Course** at **KGiSL MicroCollege** and internship at **KGiSL MicroCollege** — trained in end-to-end data analysis covering Excel dashboards, Power BI reporting, and MySQL. Passionate about turning healthcare data into actionable business insights.
 
 📍 Trichy, Tamil Nadu · 📫 arrja1920@gmail.com · [LinkedIn](https://linkedin.com/in/anthony-raj) · [GitHub](https://github.com/anthony-raj-analytics)
 
@@ -40,6 +40,8 @@ Omega Healthcare, India · May 2024 – June 2025
 | M1 | [Healthcare Claims Data Analysis](https://github.com/anthony-raj-analytics/Healthcare-Claims-Data-Analysis) | Advanced Excel | Healthcare |
 | M2 | [Rainbow Hypermarket Dashboard](https://github.com/anthony-raj-analytics/Rainbow-Hypermarket-PowerBI-2024) | Power BI + DAX | Retail |
 | Internship | [Healthcare RCM Analytics Dashboard](https://github.com/anthony-raj-analytics/Healthcare-RCM-Analytics-PowerBI) | Power BI + MySQL + Excel | Healthcare |
+
+> All projects completed as part of the **Skillryt Data Analyst Course & Internship — KGiSL MicroCollege**
 
 ---
 
