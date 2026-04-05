@@ -1,57 +1,91 @@
-## Hi, I'm Anthony Raj 👋
+# Anthony Raj
 
-🎯 Aspiring Data Analyst — completed the **Skillryt × KGiSL MicroCollege Data Analyst Course** with 3 real-world projects across Excel, Power BI, and MySQL.
+**Data Analyst** · Excel · Power BI · MySQL · Healthcare Domain
 
----
+MSc Computer Science graduate with 1 year of experience at Omega Healthcare in Revenue Cycle Management. Trained in end-to-end data analysis — Excel dashboards, Power BI reporting, and MySQL. Passionate about turning healthcare data into actionable business insights.
 
-### 🎓 Course & Certification
-
-**Skillryt × KGiSL MicroCollege — Data Analyst Program**
-- Milestone 1 — Advanced Excel ✅
-- Milestone 2 — Power BI ✅
-- Internship Project — Healthcare RCM Analytics ✅
+📍 Trichy, Tamil Nadu · 📫 arrja1920@gmail.com · [LinkedIn](https://linkedin.com/in/anthony-raj) · [GitHub](https://github.com/anthony-raj-analytics)
 
 ---
 
-### 🧰 Tools & Skills
+### Skills
 
 | Tool | Skills |
 |------|--------|
-| 📊 Advanced Excel | Pivot Tables, Power Query, VLOOKUP, Charts, Slicers, Conditional Formatting |
-| 🗄️ Advanced MySQL | Joins, Subqueries, Aggregations, CTEs, Window Functions, Stored Procedures |
-| 📈 Power BI | DAX, Data Modeling, Interactive Dashboards, KPIs, Drill-through, Slicers |
-| 📐 Statistics | Descriptive Stats, Probability, Correlation, Regression, Hypothesis Testing |
+| Excel | Power Query · Power Pivot · Pivot Tables · DAX · VBA Macros · VLOOKUP/XLOOKUP |
+| Power BI | DAX · Data Modeling · KPI Dashboards · Drill-through · Slicers · Power Query |
+| MySQL | Joins · Subqueries · CTEs · Window Functions · Query Optimization |
+| Domain | Healthcare RCM · Claims · Denials · Payment Posting · EOB · HIPAA |
+| Analytics | KPI Tracking · Root Cause Analysis · Revenue Analytics · Trend Analysis |
 
 ---
 
-### 📂 Projects
+### Experience
+
+**Process Executive — Payment Posting (RCM)**
+Omega Healthcare, India · May 2024 – June 2025
+
+- Processed and validated 5,000+ healthcare payments with 99% accuracy
+- Managed 200+ daily transactions ensuring timely reconciliation
+- Reduced claim denials by 15% through discrepancy analysis
+- Recovered $10,000+ in unapplied payments monthly
+- Maintained clean datasets ensuring HIPAA compliance
+
+---
+
+### Projects
 
 | # | Project | Tool | Domain |
 |---|---------|------|--------|
-| M1 | Healthcare Claims Data Analysis | Advanced Excel | Healthcare |
-| M2 | Rainbow Hypermarket Dashboard | Power BI + DAX | Retail |
+| M1 | [Healthcare Claims Data Analysis](https://github.com/anthony-raj-analytics/Healthcare-Claims-Data-Analysis) | Advanced Excel | Healthcare |
+| M2 | [Rainbow Hypermarket Dashboard](https://github.com/anthony-raj-analytics/Rainbow-Hypermarket-PowerBI) | Power BI + DAX | Retail |
 | Internship | Healthcare RCM Analytics Dashboard | Power BI + MySQL + Excel | Healthcare |
 
 ---
 
-### 📋 Project Details
+### M1 — Healthcare Claims Data Analysis
+> Advanced Excel · Power Query · Power Pivot · DAX · VBA
 
-**M1 — Healthcare Claims Data Analysis** *(Milestone 1)*
-> Advanced Excel · Pivot Tables · Charts · Healthcare Revenue Cycle
-- Analyzed healthcare claims data to track revenue performance
-- Built Pivot Table reports for claims summary and trend analysis
+- Analyzed 10,000 claims — identified 30.01% denial rate causing ~$4.4L revenue leakage
+- Built 5 PivotTable reports across insurance, volume, trend, financials, and denial dimensions
+- Automated dashboard refresh using VBA macro — single click slicer reset
 
-**M2 — Rainbow Hypermarket Dashboard** *(Milestone 2)*
-> Power BI · DAX · Retail Analytics
-- Built interactive retail dashboard with sales KPIs and drill-through
-- Used DAX measures for dynamic performance tracking
+---
 
-**Internship — Healthcare RCM Analytics Dashboard**
+### M2 — Rainbow Hypermarket Dashboard
+> Power BI · DAX · Star Schema · Retail Analytics
+
+- Analyzed 50,000+ transactions — identified 1.11M AED stock loss
+- Created 28 DAX measures — MoM growth, YTD, return rate, profit %
+- Built star schema linking 3 fact tables and 2 dimension tables
+
+---
+
+### Internship — Healthcare RCM Analytics Dashboard
 > Power BI + MySQL + Excel · Claims · Denials · Payer Performance
+
 - End-to-end RCM analytics covering claims, denials, and team productivity
 - Connected MySQL database to Power BI for live reporting
 
 ---
 
-📫 **Connect with me:**
-- GitHub: [github.com/anthony-raj-analytics](https://github.com/anthony-raj-analytics)
+### Education
+
+| Degree | Institution | Year |
+|--------|-------------|------|
+| M.Sc. Computer Science | Government Arts and Science College | 2022 – 2024 |
+| B.Sc. Computer Science | Sri Meenakshi Vidiyal Arts and Science College | 2019 – 2022 |
+
+---
+
+### Certifications
+
+- PL-300: Microsoft Power BI Data Analyst — Udemy
+- SQL — MySQL for Data Analytics — Udemy
+
+---
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Healthcare](https://img.shields.io/badge/Domain-Healthcare%20RCM-red?style=flat)
