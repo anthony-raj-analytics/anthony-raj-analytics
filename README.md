@@ -38,8 +38,8 @@ Omega Healthcare, India · May 2024 – June 2025
 | # | Project | Tool | Domain |
 |---|---------|------|--------|
 | M1 | [Healthcare Claims Data Analysis](https://github.com/anthony-raj-analytics/Healthcare-Claims-Data-Analysis) | Advanced Excel | Healthcare |
-| M2 | [Rainbow Hypermarket Dashboard](https://github.com/anthony-raj-analytics/Rainbow-Hypermarket-PowerBI) | Power BI + DAX | Retail |
-| Internship | Healthcare RCM Analytics Dashboard | Power BI + MySQL + Excel | Healthcare |
+| M2 | [Rainbow Hypermarket Dashboard](https://github.com/anthony-raj-analytics/Rainbow-Hypermarket-PowerBI-2024) | Power BI + DAX | Retail |
+| Internship | [Healthcare RCM Analytics Dashboard](https://github.com/anthony-raj-analytics/Healthcare-RCM-Analytics-PowerBI) | Power BI + MySQL + Excel | Healthcare |
 
 ---
 
