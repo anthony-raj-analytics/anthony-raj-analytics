@@ -4,7 +4,7 @@
 
 MSc Computer Science graduate with 1 year of experience at Omega Healthcare in Revenue Cycle Management. Completed the **Skillryt Data Analyst Course** at **KGiSL MicroCollege** and internship at **KGiSL MicroCollege** — trained in end-to-end data analysis covering Excel dashboards, Power BI reporting, and MySQL. Passionate about turning healthcare data into actionable business insights.
 
-📍 Trichy, Tamil Nadu · 📫 arraja1920@gmail.com · [LinkedIn](https://linkedin.com/in/anthony-raj) · [GitHub](https://github.com/anthony-raj-analytics) . [Portfolio](https://kindhearted-canary-38f.notion.site/Anthony-Raj-Data-Analyst-3109ed0f51bd80c4b275f1687a53c5cf?source=copy_link)
+📍 Trichy, Tamil Nadu · 📫 arraja1920@gmail.com · [LinkedIn](https://linkedin.com/in/anthony-raj) · [GitHub](https://github.com/anthony-raj-analytics) · [Portfolio](https://kindhearted-canary-38f.notion.site/Anthony-Raj-Data-Analyst-3109ed0f51bd80c4b275f1687a53c5cf?source=copy_link)
 
 ---
 
