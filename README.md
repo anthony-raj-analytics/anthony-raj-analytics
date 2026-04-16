@@ -82,6 +82,7 @@ Omega Healthcare, India · May 2024 – June 2025
 
 ### Certifications
 
+- Advanced Certification in Data Analytics – Skillryt (KGiSL & NSDC)
 - PL-300: Microsoft Power BI Data Analyst — Udemy
 - SQL — MySQL for Data Analytics — Udemy
 
