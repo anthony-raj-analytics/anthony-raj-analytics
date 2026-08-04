@@ -1,87 +1,81 @@
-<h1 align="center">Hi 👋, I'm Anthony Raj I</h1>
-<h3 align="center">Data Analyst | Power BI · SQL · Excel · Python | Healthcare RCM Domain</h3>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="0" height="0" alt="" />
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100">
+
+# Hi 👋, I'm Anthony Raj
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+Power+BI+%7C+SQL;Excel+%7C+Python+%7C+Healthcare+RCM;Turning+Raw+Data+into+Insights" alt="Typing SVG" />
+
+</div>
 
 <p align="center">
-  Data Analyst with hands-on experience in Power BI, SQL, Excel, Python, and Healthcare Revenue Cycle Management (RCM).
-  Skilled in data cleaning, transformation, dashboard development, data modeling, and business reporting —
-  passionate about turning raw data into actionable business insights.
+Data Analyst with hands-on experience in Power BI, SQL, Excel, Python, and Healthcare Revenue Cycle Management (RCM).
+Skilled in data cleaning, transformation, dashboard development, data modeling, and business reporting — passionate about turning raw data into actionable business insights.
 </p>
 
 <p align="center">
-  📍 Trichy, Tamil Nadu &nbsp;|&nbsp; 📫 arraja1920@gmail.com &nbsp;|&nbsp; 📱 +91 6374051815
+📍 Trichy, Tamil Nadu &nbsp;|&nbsp; 📧 arraja1920@gmail.com &nbsp;|&nbsp; 📱 +91 6374051815
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/anthony-raj"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/anthony-raj-analytics"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-  <a href="https://kindhearted-canary-38f.notion.site/Anthony-Raj-Data-Analyst-3109ed0f51bd80c4b275f1687a53c5cf"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:arraja1920@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://anthony-raj-analytics.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anthony-raj-analytics&style=for-the-badge&color=38BDF8" alt="profile views" />
 </p>
 
 ---
 
-### 🛠️ Technical Skills
+## 🛠️ Technical Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=powerbi,mysql,python,excel,vscode,git,github&perline=7" />
+</p>
 
 | Category | Tools & Skills |
 |---|---|
 | **Power BI** | DAX · Power Query · Data Modeling · Star Schema · Dashboard Development |
 | **SQL (MySQL)** | Joins · CTEs · Window Functions · Query Optimization |
-| **Advanced Excel** | Pivot Tables · XLOOKUP/VLOOKUP · Power Query · Power Pivot · VBA Macros |
+| **Advanced Excel** | Pivot Tables · XLOOKUP/VLOOKUP · Power Query · VBA Macros |
 | **Python** | Pandas · NumPy · Data Cleaning · Exploratory Data Analysis (EDA) |
-| **Data Analytics** | Data Validation · Data Transformation · Data Visualization · ETL |
-| **Statistics** | Descriptive Statistics · Hypothesis Testing · Correlation Analysis |
-| **Domain** | Healthcare RCM · Claims Processing · Denials · Payment Posting · HIPAA Compliance |
+| **Domain** | Healthcare Revenue Cycle Management (RCM) |
 
 ---
 
-### 💼 Experience
-
-**Data Analyst Intern — KGiSL Skillryt** · *Jan 2026 – Mar 2026*
-- Developed a 5-page interactive Power BI dashboard using Power BI, SQL, Excel, and Power Query
-- Cleaned, transformed, and processed 1,000+ records to support business reporting
-- Applied descriptive statistics to drive data-informed decisions
-
-**Process Executive — Payment Posting (RCM), Omega Healthcare** · *May 2024 – Jun 2025*
-- Processed 5,000+ insurance payments with 99% accuracy and full HIPAA compliance
-- Reduced claim denials by 15% through payment discrepancy analysis
-- Maintained 5,000+ payment records and completed daily claims reconciliation
-
----
-
-### 🚀 Featured Projects
-
-| Project | Tools | Highlights |
-|---|---|---|
-| **[Healthcare RCM Analytics Dashboard](https://github.com/anthony-raj-analytics/Healthcare-RCM-Analytics-PowerBI)** | Power BI · MySQL · Excel | End-to-end RCM dashboard; 1,000+ claims analyzed; 54.82% collection rate |
-| **[Rainbow Hypermarket Sales Dashboard](https://github.com/anthony-raj-analytics/Rainbow-Hypermarket-PowerBI-2024)** | Power BI · DAX · Star Schema | 50,000+ transactions; 28 DAX measures (MoM, YTD, Return Rate, Profit %) |
-| **[Healthcare Claims Data Analysis](https://github.com/anthony-raj-analytics/Healthcare-Claims-Data-Analysis)** | Excel · Power Query · VBA | 10,000+ claims; identified 30% denial rate; automated VBA-driven dashboard |
-| **[Automobile Sales Dashboard](https://github.com/anthony-raj-analytics)** | Plotly · Dash | Interactive dashboard analyzing recession impact on vehicle sales |
-| **[Automobile Sales Data Visualization](https://github.com/anthony-raj-analytics)** | Matplotlib · Seaborn · Folium | Sales trend analysis during recession periods |
-| **[Tesla vs GameStop Stock Analysis](https://github.com/anthony-raj-analytics)** | yfinance · Matplotlib | Historical share price vs. revenue trend visualization |
-
----
-
-### 🎓 Education
-
-| Degree | Institution | Year |
-|---|---|---|
-| M.Sc. Computer Science | Bharathidasan University | 2022 – 2024 |
-| B.Sc. Computer Science | Sri Meenakshi Vidiyal Arts and Science College | 2019 – 2022 |
-
----
-
-### 📜 Certifications
-
-- IBM Data Analyst Professional Certificate — IBM / Coursera
-- Microsoft Power BI Data Analyst Professional Certificate — Microsoft / Coursera
-- Google Advanced Data Analytics Professional Certificate — Google / Coursera
-- Advanced Certification in Data Analytics — Skillryt (KGiSL & NSDC)
-
----
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Domain-Healthcare%20RCM-red?style=flat"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anthony-raj-analytics&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anthony-raj-analytics&theme=tokyonight&hide_border=true" width="48%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-raj-analytics&layout=compact&theme=tokyonight&hide_border=true" width="55%" />
+</p>
+
+---
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anthony-raj-analytics&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/xUOxfjsW6MyIhLbcVy/giphy.gif" width="300">
+  <br><br>
+  <i>Thanks for visiting my profile — let's connect and turn data into decisions! 🚀</i>
+</div>
