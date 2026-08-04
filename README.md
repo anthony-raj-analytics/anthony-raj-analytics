@@ -1,94 +1,87 @@
-# Anthony Raj
+<h1 align="center">Hi 👋, I'm Anthony Raj I</h1>
+<h3 align="center">Data Analyst | Power BI · SQL · Excel · Python | Healthcare RCM Domain</h3>
 
-**Data Analyst** · Excel · Power BI · MySQL · Healthcare Domain
+<p align="center">
+  Data Analyst with hands-on experience in Power BI, SQL, Excel, Python, and Healthcare Revenue Cycle Management (RCM).
+  Skilled in data cleaning, transformation, dashboard development, data modeling, and business reporting —
+  passionate about turning raw data into actionable business insights.
+</p>
 
-MSc Computer Science graduate with 1 year of experience at Omega Healthcare in Revenue Cycle Management. Completed the **Skillryt Data Analyst Course** at **KGiSL MicroCollege** and internship at **KGiSL MicroCollege** — trained in end-to-end data analysis covering Excel dashboards, Power BI reporting, and MySQL. Passionate about turning healthcare data into actionable business insights.
+<p align="center">
+  📍 Trichy, Tamil Nadu &nbsp;|&nbsp; 📫 arraja1920@gmail.com &nbsp;|&nbsp; 📱 +91 6374051815
+</p>
 
-📍 Trichy, Tamil Nadu · 📫 arraja1920@gmail.com · [LinkedIn](https://linkedin.com/in/anthony-raj) · [GitHub](https://github.com/anthony-raj-analytics) · [Portfolio](https://kindhearted-canary-38f.notion.site/Anthony-Raj-Data-Analyst-3109ed0f51bd80c4b275f1687a53c5cf?source=copy_link)
-
----
-
-### Skills
-
-| Tool | Skills |
-|------|--------|
-| Excel | Power Query · Power Pivot · Pivot Tables · DAX · VBA Macros · VLOOKUP/XLOOKUP |
-| Power BI | DAX · Data Modeling · KPI Dashboards · Drill-through · Slicers · Power Query |
-| MySQL | Joins · Subqueries · CTEs · Window Functions · Query Optimization |
-| Domain | Healthcare RCM · Claims · Denials · Payment Posting · EOB · HIPAA |
-| Analytics | KPI Tracking · Root Cause Analysis · Revenue Analytics · Trend Analysis |
-
----
-
-### Experience
-
-**Process Executive — Payment Posting (RCM)**
-Omega Healthcare, India · May 2024 – June 2025
-
-- Processed and validated 5,000+ healthcare payments with 99% accuracy
-- Managed 200+ daily transactions ensuring timely reconciliation
-- Reduced claim denials by 15% through discrepancy analysis
-- Recovered $10,000+ in unapplied payments monthly
-- Maintained clean datasets ensuring HIPAA compliance
+<p align="center">
+  <a href="https://linkedin.com/in/anthony-raj"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/anthony-raj-analytics"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://kindhearted-canary-38f.notion.site/Anthony-Raj-Data-Analyst-3109ed0f51bd80c4b275f1687a53c5cf"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white"/></a>
+</p>
 
 ---
 
-### Projects
+### 🛠️ Technical Skills
 
-| # | Project | Tool | Domain |
-|---|---------|------|--------|
-| M1 | [Healthcare Claims Data Analysis](https://github.com/anthony-raj-analytics/Healthcare-Claims-Data-Analysis) | Advanced Excel | Healthcare |
-| M2 | [Rainbow Hypermarket Dashboard](https://github.com/anthony-raj-analytics/Rainbow-Hypermarket-PowerBI-2024) | Power BI + DAX | Retail |
-| Internship | [Healthcare RCM Analytics Dashboard](https://github.com/anthony-raj-analytics/Healthcare-RCM-Analytics-PowerBI) | Power BI + MySQL + Excel | Healthcare |
-
-> All projects completed as part of the **Skillryt Data Analyst Course & Internship — KGiSL MicroCollege**
-
----
-
-### M1 — Healthcare Claims Data Analysis
-> Advanced Excel · Power Query · Power Pivot · DAX · VBA
-
-- Analyzed 10,000 claims — identified 30.01% denial rate causing ~$4.4L revenue leakage
-- Built 5 PivotTable reports across insurance, volume, trend, financials, and denial dimensions
-- Automated dashboard refresh using VBA macro — single click slicer reset
+| Category | Tools & Skills |
+|---|---|
+| **Power BI** | DAX · Power Query · Data Modeling · Star Schema · Dashboard Development |
+| **SQL (MySQL)** | Joins · CTEs · Window Functions · Query Optimization |
+| **Advanced Excel** | Pivot Tables · XLOOKUP/VLOOKUP · Power Query · Power Pivot · VBA Macros |
+| **Python** | Pandas · NumPy · Data Cleaning · Exploratory Data Analysis (EDA) |
+| **Data Analytics** | Data Validation · Data Transformation · Data Visualization · ETL |
+| **Statistics** | Descriptive Statistics · Hypothesis Testing · Correlation Analysis |
+| **Domain** | Healthcare RCM · Claims Processing · Denials · Payment Posting · HIPAA Compliance |
 
 ---
 
-### M2 — Rainbow Hypermarket Dashboard
-> Power BI · DAX · Star Schema · Retail Analytics
+### 💼 Experience
 
-- Analyzed 50,000+ transactions — identified 1.11M AED stock loss
-- Created 28 DAX measures — MoM growth, YTD, return rate, profit %
-- Built star schema linking 3 fact tables and 2 dimension tables
+**Data Analyst Intern — KGiSL Skillryt** · *Jan 2026 – Mar 2026*
+- Developed a 5-page interactive Power BI dashboard using Power BI, SQL, Excel, and Power Query
+- Cleaned, transformed, and processed 1,000+ records to support business reporting
+- Applied descriptive statistics to drive data-informed decisions
 
----
-
-### Internship — Healthcare RCM Analytics Dashboard
-> Power BI + MySQL + Excel · Claims · Denials · Payer Performance
-
-- End-to-end RCM analytics covering claims, denials, and team productivity
-- Connected MySQL database to Power BI for live reporting
+**Process Executive — Payment Posting (RCM), Omega Healthcare** · *May 2024 – Jun 2025*
+- Processed 5,000+ insurance payments with 99% accuracy and full HIPAA compliance
+- Reduced claim denials by 15% through payment discrepancy analysis
+- Maintained 5,000+ payment records and completed daily claims reconciliation
 
 ---
 
-### Education
+### 🚀 Featured Projects
+
+| Project | Tools | Highlights |
+|---|---|---|
+| **[Healthcare RCM Analytics Dashboard](https://github.com/anthony-raj-analytics/Healthcare-RCM-Analytics-PowerBI)** | Power BI · MySQL · Excel | End-to-end RCM dashboard; 1,000+ claims analyzed; 54.82% collection rate |
+| **[Rainbow Hypermarket Sales Dashboard](https://github.com/anthony-raj-analytics/Rainbow-Hypermarket-PowerBI-2024)** | Power BI · DAX · Star Schema | 50,000+ transactions; 28 DAX measures (MoM, YTD, Return Rate, Profit %) |
+| **[Healthcare Claims Data Analysis](https://github.com/anthony-raj-analytics/Healthcare-Claims-Data-Analysis)** | Excel · Power Query · VBA | 10,000+ claims; identified 30% denial rate; automated VBA-driven dashboard |
+| **[Automobile Sales Dashboard](https://github.com/anthony-raj-analytics)** | Plotly · Dash | Interactive dashboard analyzing recession impact on vehicle sales |
+| **[Automobile Sales Data Visualization](https://github.com/anthony-raj-analytics)** | Matplotlib · Seaborn · Folium | Sales trend analysis during recession periods |
+| **[Tesla vs GameStop Stock Analysis](https://github.com/anthony-raj-analytics)** | yfinance · Matplotlib | Historical share price vs. revenue trend visualization |
+
+---
+
+### 🎓 Education
 
 | Degree | Institution | Year |
-|--------|-------------|------|
-| M.Sc. Computer Science | Government Arts and Science College | 2022 – 2024 |
+|---|---|---|
+| M.Sc. Computer Science | Bharathidasan University | 2022 – 2024 |
 | B.Sc. Computer Science | Sri Meenakshi Vidiyal Arts and Science College | 2019 – 2022 |
 
 ---
 
-### Certifications
+### 📜 Certifications
 
-- Advanced Certification in Data Analytics – Skillryt (KGiSL & NSDC)
-- PL-300: Microsoft Power BI Data Analyst — Udemy
-- SQL — MySQL for Data Analytics — Udemy
+- IBM Data Analyst Professional Certificate — IBM / Coursera
+- Microsoft Power BI Data Analyst Professional Certificate — Microsoft / Coursera
+- Google Advanced Data Analytics Professional Certificate — Google / Coursera
+- Advanced Certification in Data Analytics — Skillryt (KGiSL & NSDC)
 
 ---
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Healthcare](https://img.shields.io/badge/Domain-Healthcare%20RCM-red?style=flat)
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Domain-Healthcare%20RCM-red?style=flat"/>
+</p>
