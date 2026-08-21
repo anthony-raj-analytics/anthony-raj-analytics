@@ -1,21 +1,29 @@
-<h1 align="center">Hi 👋, I'm Anthony Raj I</h1>
-<h3 align="center">Data Analyst | Power BI · SQL · Excel · Python | Healthcare RCM Domain</h3>
+<h1 align="center">Hi, there! It's Anthony Raj I 👋</h1>
 
 <p align="center">
-  Data Analyst with hands-on experience in Power BI, SQL, Excel, Python, and Healthcare Revenue Cycle Management (RCM).
-  Skilled in data cleaning, transformation, dashboard development, data modeling, and business reporting —
-  passionate about turning raw data into actionable business insights.
-</p>
-
-<p align="center">
-  📍 Trichy, Tamil Nadu &nbsp;|&nbsp; 📫 arraja1920@gmail.com &nbsp;|&nbsp; 📱 +91 6374051815
+  <img src="https://komarev.com/ghpvc/?username=anthony-raj-analytics&label=Profile%20views&color=fdb813&style=flat" alt="Profile views"/>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/anthony-raj"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/anthony-raj-analytics"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
   <a href="https://anthony-raj-analytics.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-FDB813?style=flat&logo=googlechrome&logoColor=black"/></a>
+  <a href="mailto:arraja1920@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
+
+---
+
+### 🚀 About Me
+
+I am **Anthony Raj I**, a Data Analyst with hands-on experience in **Power BI, SQL, Excel, Python**, and **Healthcare Revenue Cycle Management (RCM)**. I hold an **M.Sc. in Computer Science from Bharathidasan University** and have real-world experience turning claims and payment data into dashboards that catch denial patterns before they become a backlog.
+
+At **Omega Healthcare**, I processed 5,000+ insurance payments with 99% accuracy and helped reduce claim denials by 15% through payment discrepancy analysis. During my internship at **KGiSL Skillryt**, I built a 5-page interactive Power BI dashboard from 1,000+ records. I'm always exploring new ways to make data tell a clearer story.
+
+### 🔭 My Interests
+
+- **Business Intelligence:** Building interactive Power BI dashboards with DAX and Power Query
+- **Healthcare Analytics:** Claims, denials, and payment posting trend analysis
+- **SQL & Data Modeling:** Star schemas, CTEs, window functions, query optimization
+- **Python for EDA:** Pandas, NumPy-driven data cleaning and exploratory analysis
 
 ---
 
@@ -29,12 +37,13 @@
 | **Python** | Pandas · NumPy · Data Cleaning · Exploratory Data Analysis (EDA) |
 | **Data Analytics** | Data Validation · Data Transformation · Data Visualization · ETL |
 | **Statistics** | Descriptive Statistics · Hypothesis Testing · Correlation Analysis |
+| **Domain** | Healthcare RCM · Claims Processing · Denials · Payment Posting · HIPAA Compliance |
 
 ---
 
 ### 💼 Experience
 
-**Data Analytics Intern — KGiSL Skillryt** · *Jan 2026 – Mar 2026*
+**Data Analyst Intern — KGiSL Skillryt** · *Jan 2026 – Mar 2026*
 - Developed a 5-page interactive Power BI dashboard using Power BI, SQL, Excel, and Power Query
 - Cleaned, transformed, and processed 1,000+ records to support business reporting
 - Applied descriptive statistics to drive data-informed decisions
@@ -70,9 +79,9 @@
 
 ### 📜 Certifications
 
-- IBM Data Analyst Professional Certificate — Coursera
-- Microsoft Power BI Data Analyst Professional Certificate — Coursera
-- Google Advanced Data Analytics Professional Certificate — Coursera
+- IBM Data Analyst Professional Certificate — IBM / Coursera
+- Microsoft Power BI Data Analyst Professional Certificate — Microsoft / Coursera
+- Google Advanced Data Analytics Professional Certificate — Google / Coursera
 - Advanced Certification in Data Analytics — Skillryt (KGiSL & NSDC)
 
 ---
