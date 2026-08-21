@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/anthony-raj"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/anthony-raj-analytics"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-  <a href="https://kindhearted-canary-38f.notion.site/Anthony-Raj-Data-Analyst-3109ed0f51bd80c4b275f1687a53c5cf"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white"/></a>
+  <a href="https://anthony-raj-analytics.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-FDB813?style=flat&logo=googlechrome&logoColor=black"/></a>
 </p>
 
 ---
@@ -35,7 +35,7 @@
 
 ### 💼 Experience
 
-**Data Analyst Intern — KGiSL Skillryt** · *Jan 2026 – Mar 2026*
+**Data Analytics Intern — KGiSL Skillryt** · *Jan 2026 – Mar 2026*
 - Developed a 5-page interactive Power BI dashboard using Power BI, SQL, Excel, and Power Query
 - Cleaned, transformed, and processed 1,000+ records to support business reporting
 - Applied descriptive statistics to drive data-informed decisions
@@ -65,15 +65,15 @@
 | Degree | Institution | Year |
 |---|---|---|
 | M.Sc. Computer Science | Bharathidasan University | 2022 – 2024 |
-| B.Sc. Computer Science | Sri Meenakshi Vidiyal Arts and Science College | 2019 – 2022 |
+| B.Sc. Computer Science | Bharathidasan University | 2019 – 2022 |
 
 ---
 
 ### 📜 Certifications
 
-- IBM Data Analyst Professional Certificate — IBM / Coursera
-- Microsoft Power BI Data Analyst Professional Certificate — Microsoft / Coursera
-- Google Advanced Data Analytics Professional Certificate — Google / Coursera
+- IBM Data Analyst Professional Certificate — Coursera
+- Microsoft Power BI Data Analyst Professional Certificate — Coursera
+- Google Advanced Data Analytics Professional Certificate — Coursera
 - Advanced Certification in Data Analytics — Skillryt (KGiSL & NSDC)
 
 ---
