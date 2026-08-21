@@ -29,7 +29,6 @@
 | **Python** | Pandas · NumPy · Data Cleaning · Exploratory Data Analysis (EDA) |
 | **Data Analytics** | Data Validation · Data Transformation · Data Visualization · ETL |
 | **Statistics** | Descriptive Statistics · Hypothesis Testing · Correlation Analysis |
-| **Domain** | Healthcare RCM · Claims Processing · Denials · Payment Posting · HIPAA Compliance |
 
 ---
 
