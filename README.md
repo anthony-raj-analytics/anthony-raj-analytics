@@ -37,11 +37,15 @@ At **Omega Healthcare**, I processed 5,000+ insurance payments with 99% accuracy
 | **Python** | Pandas · NumPy · Data Cleaning · Exploratory Data Analysis (EDA) |
 | **Data Analytics** | Data Validation · Data Transformation · Data Visualization · ETL |
 | **Statistics** | Descriptive Statistics · Hypothesis Testing · Correlation Analysis |
-| **Domain** | Healthcare RCM · Claims Processing · Denials · Payment Posting · HIPAA Compliance |
+| **Domain** | Healthcare RCM · Claims Processing · Denials · Payment Posting · HIPAA Compliance · IT Infrastructure |
 
 ---
 
 ### 💼 Experience
+
+**Data Analyst Intern — VDart Academy** · *2026*
+- Built an interactive 4-page IT Infrastructure Power BI dashboard covering asset lifecycle, network, software, and compliance
+- Modeled and queried datasets in MySQL, then visualized with Power BI and DAX
 
 **Data Analyst Intern — KGiSL Skillryt** · *Jan 2026 – Mar 2026*
 - Developed a 5-page interactive Power BI dashboard using Power BI, SQL, Excel, and Power Query
@@ -59,12 +63,9 @@ At **Omega Healthcare**, I processed 5,000+ insurance payments with 99% accuracy
 
 | Project | Tools | Highlights |
 |---|---|---|
+| **[IT Infrastructure Analytics Dashboard](https://github.com/anthony-raj-analytics/IT-Infrastructure-Dashboard)** | Power BI · MySQL | 50K+ assets analyzed; 20K non-compliant assets identified; $627.78M total asset value tracked |
 | **[Healthcare RCM Analytics Dashboard](https://github.com/anthony-raj-analytics/Healthcare-RCM-Analytics-PowerBI)** | Power BI · MySQL · Excel | End-to-end RCM dashboard; 1,000+ claims analyzed; 54.82% collection rate |
 | **[Rainbow Hypermarket Sales Dashboard](https://github.com/anthony-raj-analytics/Rainbow-Hypermarket-PowerBI-2024)** | Power BI · DAX · Star Schema | 50,000+ transactions; 28 DAX measures (MoM, YTD, Return Rate, Profit %) |
-| **[Healthcare Claims Data Analysis](https://github.com/anthony-raj-analytics/Healthcare-Claims-Data-Analysis)** | Excel · Power Query · VBA | 10,000+ claims; identified 30% denial rate; automated VBA-driven dashboard |
-| **[Automobile Sales Dashboard](https://github.com/anthony-raj-analytics)** | Plotly · Dash | Interactive dashboard analyzing recession impact on vehicle sales |
-| **[Automobile Sales Data Visualization](https://github.com/anthony-raj-analytics)** | Matplotlib · Seaborn · Folium | Sales trend analysis during recession periods |
-| **[Tesla vs GameStop Stock Analysis](https://github.com/anthony-raj-analytics)** | yfinance · Matplotlib | Historical share price vs. revenue trend visualization |
 
 ---
 
