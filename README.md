@@ -43,10 +43,10 @@ At **Omega Healthcare**, I processed 5,000+ insurance payments with 99% accuracy
 
 ### 💼 Experience
 
-**Data Analyst Intern — VDart Academy** · *2026*
-- Built a 4-page interactive Power BI dashboard covering IT asset lifecycle, network, software licensing, and security compliance for 50,000+ configuration items
-- Modeled and queried 4 relational datasets in MySQL, then integrated with Power BI using DAX measures and Power Query transformations
-- Identified 20,000 non-compliant assets and $1.28M in license spend, delivering actionable insights for IT risk and cost optimization
+**Data Analyst Intern — VDart Academy** · *Aug 2026*
+- Built a 4-page Power BI dashboard tracking 50,000+ IT assets across lifecycle, network, and compliance
+- Modeled 4 datasets in MySQL and connected them to Power BI using DAX and Power Query
+- Flagged 20,000 non-compliant assets and $1.28M in license spend for risk and cost review
 
 **Data Analyst Intern — KGiSL Skillryt** · *Jan 2026 – Mar 2026*
 - Developed a 5-page interactive Power BI dashboard using Power BI, SQL, Excel, and Power Query
