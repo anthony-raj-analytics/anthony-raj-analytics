@@ -1,30 +1,18 @@
 <!-- ============================== HERO ============================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0E1726,60:16233B,100:E8A200&height=260&section=header&text=Anthony%20Raj%20I&fontSize=62&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=Data%20Analyst%20%C2%B7%20Power%20BI%20%C2%B7%20SQL%20%C2%B7%20MIS%20Reporting&descSize=20&descAlignY=63&descColor=E8A200" alt="Anthony Raj I - Data Analyst" width="100%"/>
-
-<a href="https://anthony-raj-analytics.github.io/my-portfolio/">
-  <img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=600&size=22&duration=3200&pause=900&color=E8A200&center=true&vCenter=true&width=760&height=50&lines=I+clean%2C+model+and+report+on+business+data;Dashboards+that+show+what+is+changing+and+where+to+act;Power+BI+%E2%80%A2+DAX+%E2%80%A2+SQL+%E2%80%A2+Python+%E2%80%A2+Excel;Open+to+Data+Analyst+%26+BI+roles+in+the+UAE" alt="Typing animation"/>
-</a>
-
-<br/>
-
-<a href="https://anthony-raj-analytics.github.io/my-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-E8A200?style=for-the-badge&logo=googlechrome&logoColor=0E1726" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/anthony-raj/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:arraja1920@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<img src="https://komarev.com/ghpvc/?username=anthony-raj-analytics&label=PROFILE%20VIEWS&color=0E1726&labelColor=16233B&style=for-the-badge" alt="Profile views"/>
+<img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/banner.svg" alt="Anthony Raj I - Data Analyst, Power BI, SQL, MIS Reporting" width="100%"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/📍_Abu_Dhabi,_UAE-16233B?style=flat-square&labelColor=0E1726"/>
-<img src="https://img.shields.io/badge/●_Available_for_roles-1FA463?style=flat-square"/>
-<img src="https://img.shields.io/badge/🎓_M.Sc._Computer_Science-16233B?style=flat-square&labelColor=0E1726"/>
+<a href="https://anthony-raj-analytics.github.io/my-portfolio/"><img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/badges/portfolio.svg" height="34" alt="portfolio"/></a>
+<a href="https://www.linkedin.com/in/anthony-raj/"><img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/badges/linkedin.svg" height="34" alt="linkedin"/></a>
+<a href="mailto:arraja1920@gmail.com"><img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/badges/gmail.svg" height="34" alt="gmail"/></a>
+<img src="https://komarev.com/ghpvc/?username=anthony-raj-analytics&label=PROFILE%20VIEWS&color=E8A200&labelColor=0E1726&style=for-the-badge" alt="Profile views" height="34"/>
 
 </div>
 
 <br/>
-
-<!-- ============================== ABOUT ============================== -->
 
 ## 👨‍💻 About
 
@@ -47,24 +35,11 @@ Data Analyst based in **Abu Dhabi** with hands-on experience in **Power BI, SQL,
 
 ---
 
-<!-- ============================== STACK ============================== -->
-
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/badges/powerbi.svg" height="34" alt="powerbi"/> <img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/badges/tableau.svg" height="34" alt="tableau"/> <img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/badges/excel.svg" height="34" alt="excel"/> <img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/badges/mysql.svg" height="34" alt="mysql"/> <img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/badges/postgresql.svg" height="34" alt="postgresql"/> <img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/badges/python.svg" height="34" alt="python"/> <img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/badges/pandas.svg" height="34" alt="pandas"/> <img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/badges/numpy.svg" height="34" alt="numpy"/> <img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/badges/jupyter.svg" height="34" alt="jupyter"/> <img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/badges/vscode.svg" height="34" alt="vscode"/> <img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/badges/git.svg" height="34" alt="git"/> <img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/badges/github.svg" height="34" alt="github"/>
 
 </div>
 
@@ -72,16 +47,14 @@ Data Analyst based in **Abu Dhabi** with hands-on experience in **Power BI, SQL,
 
 | | |
 |---|---|
-| **📊 Power BI** | DAX · Power Query · Data Modeling · Dashboard Development · KPI Reporting · Data Visualization |
-| **🗄️ SQL** | MySQL · PostgreSQL · Joins · CTEs · Window Functions · Subqueries · Query Optimization |
-| **📗 Advanced Excel** | Pivot Tables · XLOOKUP / VLOOKUP · Power Query · Power Pivot · VBA · Dashboards |
-| **🐍 Python** | Pandas · NumPy · Data Cleaning · Exploratory Data Analysis |
-| **🔄 Data Analytics** | Data Validation · Data Transformation · ETL · Data Visualization |
-| **📐 Statistics** | Descriptive Statistics · Hypothesis Testing · Correlation Analysis |
+| <img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/icons/powerbi.svg" height="22" width="22" alt="powerbi" align="top"/> **Power BI** | DAX · Power Query · Data Modeling · Dashboard Development · KPI Reporting · Data Visualization |
+| <img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/icons/mysql.svg" height="22" width="22" alt="mysql" align="top"/> **SQL** | MySQL · PostgreSQL · Joins · CTEs · Window Functions · Subqueries · Query Optimization |
+| <img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/icons/excel.svg" height="22" width="22" alt="excel" align="top"/> **Advanced Excel** | Pivot Tables · XLOOKUP / VLOOKUP · Power Query · Power Pivot · VBA · Dashboards |
+| <img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/icons/python.svg" height="22" width="22" alt="python" align="top"/> **Python** | Pandas · NumPy · Data Cleaning · Exploratory Data Analysis |
+| <img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/icons/airflow.svg" height="22" width="22" alt="airflow" align="top"/> **Data Analytics** | Data Validation · Data Transformation · ETL · Data Visualization |
+| <img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/icons/scipy.svg" height="22" width="22" alt="scipy" align="top"/> **Statistics** | Descriptive Statistics · Hypothesis Testing · Correlation Analysis |
 
 ---
-
-<!-- ============================== WORKFLOW ============================== -->
 
 ## ⚙️ How I Work
 
@@ -103,8 +76,6 @@ flowchart LR
 
 ---
 
-<!-- ============================== PROJECTS ============================== -->
-
 ## 🚀 Featured Projects
 
 Each project covers the full path: **raw data → cleaning → query/model layer → dashboard a manager can use.**
@@ -112,71 +83,73 @@ Each project covers the full path: **raw data → cleaning → query/model layer
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/anthony-raj-analytics/UAE-Supply-Chain-Analytics"><img src="assets/uae.jpg" alt="UAE Supply Chain Analytics dashboard" width="100%"/></a>
-      <h3>🚚 UAE Supply Chain Analytics</h3>
+      <a href="https://github.com/anthony-raj-analytics/UAE-Supply-Chain-Analytics"><img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/uae.jpg" alt="UAE Supply Chain Analytics dashboard" width="100%"/></a>
+      <h3><img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/icons/powerbi.svg" height="26" width="26" alt="powerbi" align="top"/>&nbsp; UAE Supply Chain Analytics</h3>
       <p>Sales, warehouse inventory and supplier performance in a four-page Power BI report, built on Python cleaning and PostgreSQL queries.</p>
       <p><b>AED 33.43M</b> revenue &nbsp;·&nbsp; <b>2M</b> units sold &nbsp;·&nbsp; <b>10</b> suppliers</p>
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+      <img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/chips/powerbi.svg" height="26" alt="powerbi"/>
+      <img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/chips/python.svg" height="26" alt="python"/>
+      <img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/chips/postgresql.svg" height="26" alt="postgresql"/>
+      <img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/chips/excel.svg" height="26" alt="excel"/>
       <br/><br/>
       <a href="https://github.com/anthony-raj-analytics/UAE-Supply-Chain-Analytics"><b>View repository →</b></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/anthony-raj-analytics/PowerBI-Projects/tree/main/Blinkit-Sales-Dashboard"><img src="assets/blinkit.jpg" alt="Blinkit Sales Dashboard" width="100%"/></a>
-      <h3>🛒 Blinkit Sales Dashboard</h3>
+      <a href="https://github.com/anthony-raj-analytics/PowerBI-Projects/tree/main/Blinkit-Sales-Dashboard"><img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/blinkit.jpg" alt="Blinkit Sales Dashboard dashboard" width="100%"/></a>
+      <h3><img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/icons/powerbi.svg" height="26" width="26" alt="powerbi" align="top"/>&nbsp; Blinkit Sales Dashboard</h3>
       <p>Retail dashboard comparing sales by outlet size, location tier, item type and fat content, with a filter panel and KPI cards.</p>
       <p><b>$1.20M</b> total sales &nbsp;·&nbsp; <b>8,523</b> items &nbsp;·&nbsp; <b>3.9</b> avg rating</p>
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-      <br/><br/><br/>
+      <img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/chips/powerbi.svg" height="26" alt="powerbi"/>
+      <br/><br/>
       <a href="https://github.com/anthony-raj-analytics/PowerBI-Projects/tree/main/Blinkit-Sales-Dashboard"><b>View repository →</b></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/anthony-raj-analytics/Healthcare-RCM-Analytics-PowerBI"><img src="assets/rcm.jpg" alt="Healthcare RCM Analytics Dashboard" width="100%"/></a>
-      <h3>🏥 Healthcare RCM Analytics</h3>
+      <a href="https://github.com/anthony-raj-analytics/Healthcare-RCM-Analytics-PowerBI"><img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/rcm.jpg" alt="Healthcare RCM Analytics dashboard" width="100%"/></a>
+      <h3><img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/icons/powerbi.svg" height="26" width="26" alt="powerbi" align="top"/>&nbsp; Healthcare RCM Analytics</h3>
       <p>End-to-end revenue cycle dashboard showing payment trends, denial patterns and payer performance through DAX-driven KPIs.</p>
       <p><b>1,000+</b> claims &nbsp;·&nbsp; <b>54.82%</b> collection rate &nbsp;·&nbsp; <b>DAX</b> KPI layer</p>
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+      <img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/chips/powerbi.svg" height="26" alt="powerbi"/>
+      <img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/chips/mysql.svg" height="26" alt="mysql"/>
+      <img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/chips/excel.svg" height="26" alt="excel"/>
       <br/><br/>
       <a href="https://github.com/anthony-raj-analytics/Healthcare-RCM-Analytics-PowerBI"><b>View repository →</b></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/anthony-raj-analytics/IT-Infrastructure-Dashboard"><img src="assets/it.jpg" alt="IT Infrastructure Analytics Dashboard" width="100%"/></a>
-      <h3>🖥️ IT Infrastructure Analytics</h3>
+      <a href="https://github.com/anthony-raj-analytics/IT-Infrastructure-Dashboard"><img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/it.jpg" alt="IT Infrastructure Analytics dashboard" width="100%"/></a>
+      <h3><img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/icons/mysql.svg" height="26" width="26" alt="mysql" align="top"/>&nbsp; IT Infrastructure Analytics</h3>
       <p>Monitors IT assets, network performance, software licences and security compliance, with DAX measures for licence expiry and monthly infrastructure cost.</p>
       <p><b>4</b> report pages &nbsp;·&nbsp; <b>4</b> source tables &nbsp;·&nbsp; <b>DAX</b> KPI layer</p>
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+      <img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/chips/powerbi.svg" height="26" alt="powerbi"/>
+      <img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/chips/mysql.svg" height="26" alt="mysql"/>
+      <img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/chips/excel.svg" height="26" alt="excel"/>
+      <img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/chips/powerquery.svg" height="26" alt="powerquery"/>
+      <img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/chips/dax.svg" height="26" alt="dax"/>
       <br/><br/>
       <a href="https://github.com/anthony-raj-analytics/IT-Infrastructure-Dashboard"><b>View repository →</b></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/anthony-raj-analytics/Rainbow-Hypermarket-PowerBI-2024"><img src="assets/rainbow.jpg" alt="Rainbow Hypermarket Sales Dashboard" width="100%"/></a>
-      <h3>🌈 Rainbow Hypermarket Sales</h3>
+      <a href="https://github.com/anthony-raj-analytics/Rainbow-Hypermarket-PowerBI-2024"><img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/rainbow.jpg" alt="Rainbow Hypermarket Sales dashboard" width="100%"/></a>
+      <h3><img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/icons/powerbi.svg" height="26" width="26" alt="powerbi" align="top"/>&nbsp; Rainbow Hypermarket Sales</h3>
       <p>Sales analytics on a star schema model, with MoM growth, YTD sales, return rate and profit percentage measures.</p>
       <p><b>50K+</b> transactions &nbsp;·&nbsp; <b>28</b> DAX measures &nbsp;·&nbsp; <b>Star</b> schema</p>
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-      <img src="https://img.shields.io/badge/DAX-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+      <img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/chips/powerbi.svg" height="26" alt="powerbi"/>
+      <img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/chips/dax.svg" height="26" alt="dax"/>
+      <img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/chips/excel.svg" height="26" alt="excel"/>
       <br/><br/>
       <a href="https://github.com/anthony-raj-analytics/Rainbow-Hypermarket-PowerBI-2024"><b>View repository →</b></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/anthony-raj-analytics/Healthcare-Claims-Data-Analysis"><img src="assets/claims.jpg" alt="Healthcare Claims Data Analysis" width="100%"/></a>
-      <h3>📑 Healthcare Claims Data Analysis</h3>
+      <a href="https://github.com/anthony-raj-analytics/Healthcare-Claims-Data-Analysis"><img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/claims.jpg" alt="Healthcare Claims Data Analysis dashboard" width="100%"/></a>
+      <h3><img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/icons/excel.svg" height="26" width="26" alt="excel" align="top"/>&nbsp; Healthcare Claims Data Analysis</h3>
       <p>Denial patterns and payment trends across claims, cleaned in Power Query, with refresh and reporting automated through VBA.</p>
       <p><b>10,000+</b> claims &nbsp;·&nbsp; <b>VBA</b> automation &nbsp;·&nbsp; <b>PQ</b> cleaning</p>
-      <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Power_Query-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-      <img src="https://img.shields.io/badge/VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+      <img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/chips/excel.svg" height="26" alt="excel"/>
+      <img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/chips/powerquery.svg" height="26" alt="powerquery"/>
+      <img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/chips/vba.svg" height="26" alt="vba"/>
       <br/><br/>
       <a href="https://github.com/anthony-raj-analytics/Healthcare-Claims-Data-Analysis"><b>View repository →</b></a>
     </td>
@@ -184,8 +157,6 @@ Each project covers the full path: **raw data → cleaning → query/model layer
 </table>
 
 ---
-
-<!-- ============================== EXPERIENCE ============================== -->
 
 ## 💼 Experience
 
@@ -227,8 +198,6 @@ Each project covers the full path: **raw data → cleaning → query/model layer
 
 ---
 
-<!-- ============================== EDUCATION ============================== -->
-
 ## 🎓 Education & Certifications
 
 <table>
@@ -256,33 +225,16 @@ Each project covers the full path: **raw data → cleaning → query/model layer
 
 ---
 
-<!-- ============================== STATS ============================== -->
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=anthony-raj-analytics&show_icons=true&hide_border=true&bg_color=0E1726&title_color=E8A200&icon_color=E8A200&text_color=EDF0F6&ring_color=E8A200" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-raj-analytics&layout=compact&hide_border=true&bg_color=0E1726&title_color=E8A200&text_color=EDF0F6" alt="Top languages"/>
-
-</div>
-
----
-
-<!-- ============================== CONTACT ============================== -->
-
 ## 🤝 Let's Talk About Your Data
 
 <div align="center">
 
 Based in **Abu Dhabi**, open to **Data Analyst, BI Analyst, Power BI Developer and MIS Reporting** roles. The quickest way to reach me is email.
 
-<a href="mailto:arraja1920@gmail.com"><img src="https://img.shields.io/badge/arraja1920@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/anthony-raj/"><img src="https://img.shields.io/badge/linkedin.com/in/anthony--raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://anthony-raj-analytics.github.io/my-portfolio/"><img src="https://img.shields.io/badge/View_Full_Portfolio-E8A200?style=for-the-badge&logo=googlechrome&logoColor=0E1726"/></a>
+<a href="mailto:arraja1920@gmail.com"><img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/badges/gmail.svg" height="34" alt="gmail"/></a>
+<a href="https://www.linkedin.com/in/anthony-raj/"><img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/badges/linkedin.svg" height="34" alt="linkedin"/></a>
+<a href="https://anthony-raj-analytics.github.io/my-portfolio/"><img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/badges/portfolio.svg" height="34" alt="portfolio"/></a>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8A200,50:16233B,100:0E1726&height=130&section=footer" width="100%" alt="Footer"/>
+<img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/assets/footer.svg" alt="" width="100%"/>
 
 </div>
