@@ -90,7 +90,7 @@ Each project covers the full path: **raw data → cleaning → query/model layer
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/anthony-raj-analytics/UAE-Supply-Chain-Analytics"><img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/proj-uae.jpg" alt="UAE Supply Chain Analytics dashboard" width="100%"/></a>
+      <a href="https://github.com/anthony-raj-analytics/UAE-Supply-Chain-Analytics"><img src="https://raw.githubusercontent.com/anthony-raj-analytics/UAE-Supply-Chain-Analytics/main/06_Screenshots/01_Executive_Overview.png" alt="UAE Supply Chain Analytics dashboard" width="100%"/></a>
       <h3>UAE Supply Chain Analytics</h3>
       <p>Sales, warehouse inventory and supplier performance in a four-page Power BI report, built on Python cleaning and PostgreSQL queries.</p>
       <p><b>AED 33.43M</b> revenue &nbsp;·&nbsp; <b>2M</b> units sold &nbsp;·&nbsp; <b>10</b> suppliers</p>
@@ -99,7 +99,7 @@ Each project covers the full path: **raw data → cleaning → query/model layer
       <a href="https://github.com/anthony-raj-analytics/UAE-Supply-Chain-Analytics"><b>View repository →</b></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/anthony-raj-analytics/PowerBI-Projects/tree/main/Blinkit-Sales-Dashboard"><img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/proj-blinkit.jpg" alt="Blinkit Sales Dashboard dashboard" width="100%"/></a>
+      <a href="https://github.com/anthony-raj-analytics/PowerBI-Projects/tree/main/Blinkit-Sales-Dashboard"><img src="https://raw.githubusercontent.com/anthony-raj-analytics/PowerBI-Projects/main/Blinkit-Sales-Dashboard/dashboard.png" alt="Blinkit Sales Dashboard dashboard" width="100%"/></a>
       <h3>Blinkit Sales Dashboard</h3>
       <p>Retail dashboard comparing sales by outlet size, location tier, item type and fat content, with a filter panel and KPI cards.</p>
       <p><b>$1.20M</b> total sales &nbsp;·&nbsp; <b>8,523</b> items &nbsp;·&nbsp; <b>3.9</b> avg rating</p>
@@ -110,7 +110,7 @@ Each project covers the full path: **raw data → cleaning → query/model layer
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/anthony-raj-analytics/Healthcare-RCM-Analytics-PowerBI"><img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/proj-rcm.jpg" alt="Healthcare RCM Analytics dashboard" width="100%"/></a>
+      <a href="https://github.com/anthony-raj-analytics/Healthcare-RCM-Analytics-PowerBI"><img src="https://raw.githubusercontent.com/anthony-raj-analytics/Healthcare-RCM-Analytics-PowerBI/main/Dashboard_Screenshots/Overview.png" alt="Healthcare RCM Analytics dashboard" width="100%"/></a>
       <h3>Healthcare RCM Analytics</h3>
       <p>End-to-end revenue cycle dashboard showing payment trends, denial patterns and payer performance through DAX-driven KPIs.</p>
       <p><b>1,000+</b> claims &nbsp;·&nbsp; <b>54.82%</b> collection rate &nbsp;·&nbsp; <b>DAX</b> KPI layer</p>
@@ -119,7 +119,7 @@ Each project covers the full path: **raw data → cleaning → query/model layer
       <a href="https://github.com/anthony-raj-analytics/Healthcare-RCM-Analytics-PowerBI"><b>View repository →</b></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/anthony-raj-analytics/IT-Infrastructure-Dashboard"><img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/proj-it.jpg" alt="IT Infrastructure Analytics dashboard" width="100%"/></a>
+      <a href="https://github.com/anthony-raj-analytics/IT-Infrastructure-Dashboard"><img src="https://github.com/user-attachments/assets/a731ea28-651f-4876-977f-0d84d277eba4" alt="IT Infrastructure Analytics dashboard" width="100%"/></a>
       <h3>IT Infrastructure Analytics</h3>
       <p>Monitors IT assets, network performance, software licences and security compliance, with DAX measures for licence expiry and monthly infrastructure cost.</p>
       <p><b>4</b> report pages &nbsp;·&nbsp; <b>4</b> source tables &nbsp;·&nbsp; <b>DAX</b> KPI layer</p>
@@ -130,7 +130,7 @@ Each project covers the full path: **raw data → cleaning → query/model layer
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/anthony-raj-analytics/Rainbow-Hypermarket-PowerBI-2024"><img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/proj-rainbow.jpg" alt="Rainbow Hypermarket Sales dashboard" width="100%"/></a>
+      <a href="https://github.com/anthony-raj-analytics/Rainbow-Hypermarket-PowerBI-2024"><img src="https://raw.githubusercontent.com/anthony-raj-analytics/Rainbow-Hypermarket-PowerBI-2024/main/Screenshots/Sales_Overview.png" alt="Rainbow Hypermarket Sales dashboard" width="100%"/></a>
       <h3>Rainbow Hypermarket Sales</h3>
       <p>Sales analytics on a star schema model, with MoM growth, YTD sales, return rate and profit percentage measures.</p>
       <p><b>50K+</b> transactions &nbsp;·&nbsp; <b>28</b> DAX measures &nbsp;·&nbsp; <b>Star</b> schema</p>
@@ -139,7 +139,7 @@ Each project covers the full path: **raw data → cleaning → query/model layer
       <a href="https://github.com/anthony-raj-analytics/Rainbow-Hypermarket-PowerBI-2024"><b>View repository →</b></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/anthony-raj-analytics/Healthcare-Claims-Data-Analysis"><img src="https://raw.githubusercontent.com/anthony-raj-analytics/anthony-raj-analytics/main/proj-claims.jpg" alt="Healthcare Claims Data Analysis dashboard" width="100%"/></a>
+      <a href="https://github.com/anthony-raj-analytics/Healthcare-Claims-Data-Analysis"><img src="https://raw.githubusercontent.com/anthony-raj-analytics/Healthcare-Claims-Data-Analysis/main/Dashboard/dashboard.png" alt="Healthcare Claims Data Analysis dashboard" width="100%"/></a>
       <h3>Healthcare Claims Data Analysis</h3>
       <p>Denial patterns and payment trends across claims, cleaned in Power Query, with refresh and reporting automated through VBA.</p>
       <p><b>10,000+</b> claims &nbsp;·&nbsp; <b>VBA</b> automation &nbsp;·&nbsp; <b>PQ</b> cleaning</p>
